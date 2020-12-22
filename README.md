@@ -1,4 +1,4 @@
-# www.beykoz.com.tr sitesinin frontend birebir yeniden tasarımı
+# www.enerjiatlasi.com sitesinin frontend birebir yeniden tasarımı
 ## BS435 Web Programlama 1 Dersi Vize Ödevi
 ### Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü  
 
