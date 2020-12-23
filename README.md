@@ -8,18 +8,21 @@ Tasarlayan: **Mahmut ARSLAN**
 
 # Dosyalar
 
-1. beykoz.html
-2. ...
-3. ...
+1. index.html
+2. hakkinda.html
+3. style.css
+4. hakkinda.css
+5. slider.js
+6. favicon.ico
+7. Diğer Resim Dosyaları
  
 
 # Kullanılan Araçlar
 
- 1. HTML5
- 2. CSS3
+ 1. HTML
+ 2. CSS
  3. Bootstrap
  4. Javascript
- 5. Jquery
 
 # Kullanılan Yazılımlar
 
